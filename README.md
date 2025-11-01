@@ -17,7 +17,7 @@ A simple command-line Bank Management System built with Java that allows users t
 - A Java compiler (javac) and runtime (java)
 
 ## Installation
-// ss
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/bank-management-system.git
@@ -156,7 +156,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## Author
 
-**Millen**
+**milnee**
 
 ---
 
